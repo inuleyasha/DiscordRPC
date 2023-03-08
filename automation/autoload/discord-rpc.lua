@@ -1,6 +1,5 @@
 script_name = "Discord RPC"
 script_description = "Aegisub Discord Rich Presence."
-script_author = "Ayasaki Fumi"
 script_version = "1"
 
 local ffi = require "ffi"
